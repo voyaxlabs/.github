@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/voyax-mark-dark.png">
+    <img src="brand/voyax-mark.png" alt="VoyaX Labs" width="140">
+  </picture>
+</p>
+
 # VoyaX Labs Inc.
 
 VoyaX explores portable and expandable mobile-living concepts, including compact trailer layouts, lightweight design and sustainable manufacturing ideas. Public models are concepts until engineering, roadworthiness and other applicable requirements are verified.
