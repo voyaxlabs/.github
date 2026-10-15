@@ -15,6 +15,8 @@ VoyaX explores portable and expandable mobile-living concepts, including compact
 
 **Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
 
+How we work: our own code and documentation in these repositories were written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
+
 ## Public projects
 
 - [northern-microgrid](https://github.com/voyaxlabs/northern-microgrid): simulates which solar and battery capacities reduce diesel use for a synthetic remote northern camp, with hourly dispatch across four Canadian northern weather scenarios. Simulation only, with no field validation.
