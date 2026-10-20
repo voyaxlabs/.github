@@ -7,7 +7,7 @@
 
 # VoyaX Labs Inc.
 
-VoyaX explores portable and expandable mobile-living concepts, including compact trailer layouts, lightweight design, off-grid energy and sustainable manufacturing ideas. Public models are concepts until engineering, roadworthiness and other applicable requirements are verified.
+VoyaX explores portable and expandable mobile-living concepts, including compact trailer layouts, lightweight design, off-grid energy and sustainable manufacturing ideas. Its public work so far is northern-microgrid, a simulation of which solar and battery sizes cut diesel use for a synthetic remote northern camp. Public models are concepts until engineering, roadworthiness and other applicable requirements are verified.
 
 ## Open by design
 
@@ -15,10 +15,10 @@ VoyaX explores portable and expandable mobile-living concepts, including compact
 
 **Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
 
-How we work: our own code and documentation in these repositories were written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
-
 ## Public projects
 
 - [northern-microgrid](https://github.com/voyaxlabs/northern-microgrid): simulates which solar and battery capacities reduce diesel use for a synthetic remote northern camp, with hourly dispatch across four Canadian northern weather scenarios. Simulation only, with no field validation.
 
 Contact: info@voyaxlabs.ca | Website: https://voyaxlabs.ca/
+
+Our code and documentation are written with AI coding assistants under the direction of Amir Daneshpajouh, and checked by their tests and an AI-assisted release check before publication; open-source parts made by others are credited where used.
